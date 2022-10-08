@@ -32,5 +32,5 @@ root                    (project root folder)
 * Raylib Python CFFI 3.7
 
 ## Author
-* Giuliana Pezzali 
+* Patrick Igwe
 # cse210-04
